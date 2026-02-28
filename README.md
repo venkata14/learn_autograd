@@ -5,4 +5,4 @@ Mostly learned the DAG structure from the below. This version is heavily inspire
 https://github.com/joey00072/tinytorch
 
 Current Issues:
-- CNN forward pass works, but Backprop does not. Need to implement slicing
+- Need to make cross entrophy loss for CNNs to work properly
